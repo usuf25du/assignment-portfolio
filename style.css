@@ -99,13 +99,24 @@ footer{
     padding: 5%
     margin: 2%
 }
-
-.icons{
-    height: 40px;
-    width: 40px;
+.email{
+    width: 20px;
 }
+
+
 .footer-text{
     padding-top: 10px;
     font-family: cursive;
     font-size: 20px;
+}
+.form-make{
+    background-color: antiquewhite;
+    background-position: center;
+    height: 100px;
+    width: 800px;
+    padding: 70px;
+    margin-left: 100px;
+    border-radius: 5px;
+    font-size: 30px;
+    
 }
